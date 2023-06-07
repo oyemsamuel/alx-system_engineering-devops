@@ -1,2 +1,2 @@
 #!/bin/bash
-The current working directory is: $(pwd)
+pwd
